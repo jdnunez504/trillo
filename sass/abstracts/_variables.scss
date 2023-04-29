@@ -1,0 +1,27 @@
+$color-primary: #eb2f64;
+$color-primary-light: #FF3366;
+$color-primary-dark: #BA265D;
+
+$color-neutral-grey-lt-1: #faf9f9;
+$color-neutral-grey-lt-2: #f4f2f2;
+$color-neutral-grey-lt-3: #f0eeee;
+$color-neutral-grey-lt-4: #ccc;
+
+$color-neutral-grey-dk-1: #333;
+$color-neutral-grey-dk-2: #777;
+$color-neutral-grey-dk-3: #999;
+
+$color-neutral-white: #fff;
+
+$color-shadow-dk: rgba(0,0,0,.8);
+$color-shadow-lt: rgba(0,0,0,.06);
+
+$large-box-shadow: 0 2rem 6rem $color-shadow-dk;
+$small-box-shadow: 0 2rem 5rem $color-shadow-lt;
+$border-line: 1px solid $color-neutral-grey-lt-2;
+
+$bp-largest: 75em; // 1200px
+$bp-large: 68.75em; // 1100px
+$bp-medium: 56.25em; // 900px
+$bp-small: 37.5em; // 600px
+$bp-smallest: 31.25em; // 500px
